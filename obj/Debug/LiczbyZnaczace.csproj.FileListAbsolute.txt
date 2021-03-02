@@ -1,0 +1,6 @@
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KORNEL\LiczbyZnaczace\bin\Debug\LiczbyZnaczace.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KORNEL\LiczbyZnaczace\bin\Debug\LiczbyZnaczace.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KORNEL\LiczbyZnaczace\bin\Debug\LiczbyZnaczace.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KORNEL\LiczbyZnaczace\obj\Debug\LiczbyZnaczace.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KORNEL\LiczbyZnaczace\obj\Debug\LiczbyZnaczace.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KORNEL\LiczbyZnaczace\obj\Debug\LiczbyZnaczace.csprojAssemblyReference.cache
